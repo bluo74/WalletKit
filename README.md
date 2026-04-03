@@ -206,3 +206,9 @@ Sans te soucier de la logique interne du wallet.
 ## 🧩 À propos
 
 > WalletKit — *Aide pour la gestion du porte-monnaie*
+> Discord - https://discord.gg/cdfHH7pn2x
+
+## 👨‍💻 Crédits
+
+- Outil développé par **Bluo**
+- Logique principale réalisée avec l'aide de JulesFR
