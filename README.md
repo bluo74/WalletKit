@@ -1,14 +1,13 @@
 # WalletKit
 WalletKit est un outil permettant de simplifier la gestion de l'argent dans le portefeuille
 
-Voici une version propre, structurée et prête à être utilisée sur **GitHub (README.md)** 👇
-
 ---
 
 # 💼 WalletKit
 
 **Documentation développeur — v1.0**
-Plugin pour *Life Framework*
+Outil pour NovaLife
+Dévelloper par Bluo avec l'aide de JulesFR
 
 ---
 
@@ -207,11 +206,3 @@ Sans te soucier de la logique interne du wallet.
 ## 🧩 À propos
 
 > WalletKit — *Aide pour la gestion du porte-monnaie*
-
----
-
-Si tu veux, je peux aussi te faire :
-
-* un **README avec badges (version, license, etc.)**
-* une **page GitHub stylée (avec images + GIF)**
-* ou même une **doc en anglais** pour toucher plus de monde 🚀
