@@ -13,7 +13,7 @@ Dévelloper par Bluo avec l'aide de JulesFR
 
 ## 📌 Présentation
 
-**WalletKit** est une bibliothèque utilitaire conçue pour simplifier la gestion du portefeuille (*wallet*) des joueurs.
+**WalletKit** est un outil conçue pour simplifier la gestion du portefeuille (*wallet*) des joueurs.
 
 Elle permet de :
 
