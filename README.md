@@ -29,13 +29,13 @@ Elle permet de :
 
 ## ⚙️ Installation
 
-1. Copie `WalletKit.dll` dans le dossier :
+1. Ajouter `WalletKit.dll` dans le dossier de votre serveur :
 
 ```
 plugins/
 ```
 
-2. Ajoute la référence dans ton projet
+2. Ajoute la référence dans ton projet *pour les développers*
 
 3. Importe le namespace :
 
