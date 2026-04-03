@@ -197,7 +197,7 @@ WalletKit te permet de gérer facilement :
 
 * 💰 Lecture du solde
 * ➕ Ajout d'argent
-* ➖ Retrait sécurisé
+* ➖ Retrait d'argent
 
 Sans te soucier de la logique interne du wallet.
 
