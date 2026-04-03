@@ -211,4 +211,4 @@ Discord BlueHub - https://discord.gg/cdfHH7pn2x
 ## 👨‍💻 Crédits
 
 - Outil développé par **Bluo**
-- Logique principale réalisée avec l'aide de JulesFR
+- Logique principale réalisée par JulesFR
